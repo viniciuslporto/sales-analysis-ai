@@ -43,7 +43,7 @@ This project bridges that gap: a single Python script takes a CSV export from an
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/sales-analysis-claude.git
+git clone https://github.com/viniciuslporto/sales-analysis-claude.git
 cd sales-analysis-claude
 ```
 
@@ -185,7 +185,7 @@ Any structured tabular data can become a strategic report with minimal modificat
 Building AI-powered automation tools that turn data into decisions.
 
 - Email: lportovinicius@gmail.com
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- GitHub: [github.com/viniciuslporto](https://github.com/viniciuslporto)
 
 ---
 
